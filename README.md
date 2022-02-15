@@ -1,2 +1,3 @@
 # WHONDRS_collaboration
-Moritz, Florina, Miko
+
+This is a private git repo for Moritz, Florina, Miko
